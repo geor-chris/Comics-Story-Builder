@@ -1,0 +1,32 @@
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.pdb
+
+# Exception: keep the asset images that live inside bin/Debug
+!**/bin/
+!**/bin/Debug/
+**/bin/Debug/*
+!**/bin/Debug/images/
+!**/bin/Debug/images/**
+
+# Comics created by users (output, not source code)
+**/comics/
+
+# Misc
+*.cache
+*.log
+Thumbs.db
+Desktop.ini
