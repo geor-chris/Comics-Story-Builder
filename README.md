@@ -25,6 +25,7 @@ Built with C# and Windows Forms on .NET Framework 4.7.2.
 
 ---
 
+
 ## How to use
 
 ### 1. Start a new comic
@@ -63,6 +64,8 @@ Click **LOAD PROJECT** on the start screen and choose the comic's `.b` file in `
 Click **VIEW COMIC** on the start screen (or **Display comic** in the editor) and choose a comic folder. The viewer shows every `.png` in that folder.
 
 ---
+<img width="1919" height="1079" alt="canvas" src="https://github.com/user-attachments/assets/dbc6a26e-1003-46a6-8d98-ac5c6b18ddfb" />
+
 
 ## Project structure
 
